@@ -1,0 +1,63 @@
+
+*{
+    background-color: #2C3333;
+}
+  
+header {
+    color: #395B64;
+    text-shadow: 2px 2px 8px #e7f6f2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 5vh;
+    margin-left: 20px;
+  }
+h2,h3{
+    color: #A5C9CA;
+    margin-left: 15px;
+}
+
+section{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3vh;
+    margin-left: 15px;
+}
+
+.introducao {
+    color: #E7F6F2;
+
+  }
+
+.tabelas{
+    color: #F1F1F1;
+    text-align: center;
+    border: #A5C9CA;
+}
+
+.linktopo{
+    font-size: 3vh;
+    margin-left: 15px;
+}
+.botaovoltar{
+    font-size: 5vh;
+    margin-left: 20px;
+}
+
+a:link {
+	color: cyan;
+}
+a:visited {
+	color: pink;
+}
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.listaIngredientes{
+    font-size:3vh;
+    color: #E7F6F2; 
+}
+
+.comoFazer{
+    font-size: large;
+    color: burlywood;
+}
