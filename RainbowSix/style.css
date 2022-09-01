@@ -1,0 +1,27 @@
+* {
+
+}
+
+.descJogo {
+    text-align:center;
+    
+
+}
+.titulo{
+    margin-left: 30px;
+}
+.botoes{
+    text-align: center;
+} 
+.imagens{
+    text-align: center;
+}
+.rodape{
+    text-align: center;
+}
+.card-body{
+    color: black;
+}
+.logoMaior{
+    text-align: center;
+}
